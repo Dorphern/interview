@@ -12,6 +12,9 @@ test('Sample test', (t) => {
 
 test.skip('Benchmark testing', (t) => {
 
+  // Try to test the O time of the function
+  // How would we do that?
+
   console.log(benchmark(() => (123).toString()))
   console.log(benchmark(() => (123).toString(2)))
 
