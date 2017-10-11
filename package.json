@@ -1,0 +1,10 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "A small project to test some things",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^4.8.0"
+  }
+}
