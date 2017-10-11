@@ -1,5 +1,5 @@
 
-Assignment
+Assignment (30 minutes)
 =============================
 
 Write a function:
@@ -16,4 +16,9 @@ Assume that:
 -----------------------------
 `N` is an integer within the range `[1..100,000];` each element of array `A` is
 an integer within the range `[−1,000,000..1,000,000]`.
+
+
+Further
+-----------------------------
+Try to test the Big O time of the function, how would we do that?
 
