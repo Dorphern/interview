@@ -4,6 +4,10 @@
   "description": "A small project to test some things",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "node ./src/test.js",
+    "benchmark": "node ./src/benchmark.js"
+  },
   "dependencies": {
     "tape": "^4.8.0"
   }
